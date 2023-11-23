@@ -19,8 +19,8 @@ export default function Page() {
             className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}
           >
             <strong>Welcome to Accounting Software.</strong> This is the demo
-            project bought to you by
-            <a href="https://nextjs.org/learn/" className="text-blue-500">
+            project brought to you by{' '}
+            <a href="https://github.com/subutian" className="text-blue-500">
               Brian Su
             </a>
           </p>
